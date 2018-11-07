@@ -1,2 +1,2 @@
 # HelloWorld
-This is a Hellow World Project
+This is a Hello World Project
